@@ -34,6 +34,9 @@ http://blog.gsmarena.com/google-maps-android-now-features-live-traffic-alerts-al
 Demographic Data:
 https://pngtree.com/freepng/vector-creative-design-demographic-analysis-chart_1656756.html
 
+International Students:
+https://www.iie.org/Research-and-Insights/Project-Atlas/Explore-Data/Current-Infographics
+
 Behavioral Data:
 https://apigee.com/about/blog/developer/behavior-graphs-understanding-customer-journeys
 
