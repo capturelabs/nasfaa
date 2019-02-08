@@ -22,6 +22,9 @@ https://www.logianalytics.com/predictive-analytics/what-is-predictive-analytics/
 SVM graphic:
 https://medium.com/@LSchultebraucks/introduction-to-support-vector-machines-9f8161ae2fcb
 
+Financial Aid Matrix:
+www.uvu.edu
+
 Airline Pricing:
 https://flightfox.com/tradecraft/how-do-airlines-set-prices
 
